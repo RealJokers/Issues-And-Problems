@@ -1,8 +1,4 @@
-**Issues And Problems**
 
-Welcome to the "Issues And Problems" repository!
-
-## Description
 
 This repository serves as a centralized platform for tracking, managing, and resolving various issues and problems encountered during the development of our project. It's essential for effective collaboration and maintaining a clear record of challenges faced.
 
