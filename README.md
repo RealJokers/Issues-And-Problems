@@ -15,7 +15,7 @@ We value contributions from the community! If you encounter an issue or problem,
 
 If you wish to contribute to resolving existing issues:
 
-1. Browse the list of open issues in the [Issues](https://github.com/yourusername/issues-and-problems/issues) section.
+1. Browse the list of open issues in the [Issues](https://github.com/RealJokers/Issues-And-Problems/issues) section.
 2. Read through the comments and discussions to understand the problem thoroughly.
 3. If you have a solution, leave a comment or submit a pull request with your proposed changes.
 4. Engage in constructive discussions with other contributors.
