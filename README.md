@@ -7,7 +7,7 @@ This repository serves as a centralized platform for tracking, managing, and res
 We value contributions from the community! If you encounter an issue or problem, please follow these steps:
 
 1. Go to the Issues tab.
-2. Click on the "[New Issue](https://github.com/RealJokers/Issues-And-Problems)" button.
+2. Click on the "[New Issue](https://github.com/RealJokers/Issues-And-Problems/issues)" button.
 3. Choose the appropriate template for the type of issue you want to report.
 4. Provide a descriptive title and a detailed description of the issue.
 5. Assign relevant labels and collaborators to assist with resolving the problem.
